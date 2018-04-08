@@ -39,4 +39,10 @@ public class OpenAndCloseBrowser {
 		driver.quit();
 	}
 
+
+	public static WebDriver getDriverInstance() {
+		// TODO Auto-generated method stub
+		return driver;
+	}
+
 }

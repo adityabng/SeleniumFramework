@@ -4,6 +4,6 @@ import org.openqa.selenium.By;
 
 public class UserPageElements {
 	
-	public static By subjects = By.xpath("//h2[contains(text(),'Subject')]");
+	public static By subjects = By.xpath("//h2[contains(text(),'zaazaz')]");
 
 }
